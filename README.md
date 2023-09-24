@@ -5,6 +5,8 @@ Dieses Repository dient ausschließlich dazu, Fehlermeldungen und Initiativen f�
 Fehlermeldungen bitte aussagekräftig dokumentieren, möglichst unter Angabe der Version (steht unten in der Fußzeile der Plattform), dem Hergang, wie es zum Fehler kam (was wurde geklickt, was wurde eingegeben). Falls möglich, bitte Screenshot beifügen.
 Feature Requests bitte so detailliert wie möglich beschreiben: Welches Verhalten ist erwünscht? Wie soll die Funktionalität ablaufen? Ist sie auf einen bestimmten Nutzerkreis (Vereinsverwalter, Mitglieder, Geschäftsstelle, Öffentlichkeit) beschränkt? Welche Daten sollen wie verarbeitet werden?
 
+Bitte markiert eure Issues mit Labeln, damit wir schnell zuordnen können, wobei es sich um Fehler, Verbesserungsvorschläge oder schlichte Nachfragen handelt.
+
 Die Meldungen werden regelmäßig gesichtet und nach Priorität abgearbeitet. 
 
 **Bitte keine persönlichen Daten (Namen, Anschriften, Telefonnummern, Mail-Adressen, Geburtstage etc.) in den Issues ablegen!!**
